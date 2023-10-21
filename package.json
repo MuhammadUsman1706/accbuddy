@@ -1,0 +1,41 @@
+{
+  "name": "accbuddy",
+  "version": "1.0.0",
+  "description": "Your One-Stop Destination To Buy Verified Social Media & Email Accounts!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdev983/accbuddy.git"
+  },
+  "author": "Muhammad Usman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webdev983/accbuddy/issues"
+  },
+  "homepage": "https://github.com/webdev983/accbuddy#readme",
+  "devDependencies": {
+    "del": "^7.0.0",
+    "gulp": "^4.0.2",
+    "gulp-cheerio": "^1.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-gzip": "^1.4.2",
+    "gulp-nunjucks-render": "^2.2.3",
+    "gulp-rename": "^2.0.0",
+    "gulp-rev": "^10.0.0",
+    "gulp-rev-collector": "^1.3.3",
+    "gulp-rev-delete-original": "^0.2.3",
+    "gulp-robots": "^2.0.4",
+    "gulp-sitemap": "^8.0.0",
+    "gulp-svgstore": "^9.0.0",
+    "gulp-webp": "^4.0.1",
+    "gulp4-run-sequence": "^1.0.2",
+    "run-sequence": "^2.2.1"
+  },
+  "dependencies": {
+    "gulp-replace": "^1.1.4"
+  }
+}
